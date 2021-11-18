@@ -1,1 +1,1 @@
-# ShoutcastAPIv2
+# Shoutcast Data API 
